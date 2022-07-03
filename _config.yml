@@ -4,20 +4,20 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Mediator"
+title: "Code Journey"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+   Blogging Software Development topics that would've made my life easier if it was in blog form.
 
-email: a-mail@mail.mail
+email: robindalmy@gmail.com
 #blog logo
-logo: "/assets/images/df_logo.jpg"
+logo: "/assets/images/robin-bird-300px.jpg"
 float_logo: true # true, false (default)
 
 # blog cover
 cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
 
-name: 'Dirk Fabisch'
-author: 'Dirk Fabisch'
+name: 'Robin Tubungbanua'
+author: 'Robin Tubungbanua'
 author_image: "/assets/images/author.jpg"
 
 paginate:	5
@@ -49,8 +49,8 @@ social:
 #    share_link: "&amp;u="
 
   - icon:	github
-    url:	https://github.com/dirkfabisch
-    desc:	Fork me on github
+    url:	https://github.com/mistermunchkin
+    desc:	Not much going on here
     share_url:
     share_title:
     share_link:
