@@ -12,6 +12,7 @@ email: robindalmy@gmail.com
 #blog logo
 logo: "/assets/images/robin-bird-300px.jpg"
 float_logo: true # true, false (default)
+google_analytics: true
 
 # blog cover
 cover: "/assets/images/cover-image.jpg"
